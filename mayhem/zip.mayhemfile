@@ -1,0 +1,4 @@
+project: PROJECT
+target: zip
+cmds:
+- cmd: /out/zip
